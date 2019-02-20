@@ -230,6 +230,4 @@ public class ParentalPractice {
     }
 }
 }
-      // if (pstud instanceof ElmStudent){
-//   System.out.println("pstud is a ElmStudent");
-// }
+
